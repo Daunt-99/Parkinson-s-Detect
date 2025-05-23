@@ -55,5 +55,3 @@ Through this project, I gained deep hands-on experience in:
 ## 🧑‍🤝‍🧑 Team & Credits
 
 This was a collaborative effort by our AIMD Spring 2025 team - Romita Veeramallu, Krithika Muthukumar, Shariq Hassan, Pavan Arani, Rajat Singh, and myself. I'm grateful to my teammates and mentors for their insights, support, and innovation throughout this project.
-
----
